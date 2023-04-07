@@ -1,4 +1,4 @@
-# Model SQL Interpreter Readme  
+# How to make it work  
 
 ## Requirements 
 - Linux system, to run the program at;
